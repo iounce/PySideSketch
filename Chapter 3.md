@@ -1,4 +1,4 @@
-# 窗体与布局
+# 第三章 窗体与布局
 
 PySide6中常见的布局控件有网格布局控件QGridLayout，垂直布局控件QVBoxLayout和水平布局控件QHBoxLayout。具体用法如下：
 
