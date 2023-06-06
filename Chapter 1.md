@@ -2,7 +2,7 @@
 
 *Qt*是一款C++跨平台图形用户界面应用程序开发框架，完全面向对象，易扩展，实现了组件化编程。
 
-PySide6是*Qt*的Python封装，支持*Qt* 6.0框架，其开源协议为[LGPLv3](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3))/[GPLv2](https://tldrlegal.com/license/gnu-general-public-license-v2)，具体介绍可参考官网【[Qt for Python - Qt Wiki](https://wiki.qt.io/Qt_for_Python)】。
+PySide6是*Qt*的Python封装，支持*Qt* 6.0框架，其开源协议为[LGPLv3](https://www.tldrlegal.com/license/gnu-lesser-general-public-license-v3-lgpl-3)/[GPLv2](https://tldrlegal.com/license/gnu-general-public-license-v2)，具体介绍可参考官网【[Qt for Python - Qt Wiki](https://wiki.qt.io/Qt_for_Python)】。
 
 在创建基于组件的图形界面程序时，通常会用到以下三个模块：
 
@@ -18,6 +18,7 @@ PySide6是*Qt*的Python封装，支持*Qt* 6.0框架，其开源协议为[LGPLv3
 
 1. 操作系统：        Windows 10
 2. Python版本：      3.10.4
+3. 编辑器：          VSCode
 
 * 安装：
 
