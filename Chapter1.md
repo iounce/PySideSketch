@@ -18,7 +18,7 @@ PySide6是*Qt*的Python封装，支持*Qt* 6.0框架，其开源协议为[LGPLv3
 
 1. 操作系统：        Windows 10
 2. Python版本：      3.10.4
-3. 编辑器：          VSCode
+3. VSCode版本：      1.78.2
 
 * 安装：
 
