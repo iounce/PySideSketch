@@ -8,3 +8,4 @@
 * [第五章 窗体间通信](Chapter5.md)
 * [第六章 国际化](Chapter6.md)
 * [第七章 打包](Chapter7.md)
+* [第八章 案例解析之PySideFrameless](Chapter8.md)
