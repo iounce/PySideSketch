@@ -9,3 +9,4 @@
 * [第六章 国际化](Chapter6.md)
 * [第七章 打包](Chapter7.md)
 * [第八章 案例解析之PySideFrameless](Chapter8.md)
+* [第九章 案例解析之PySidePDF](Chapter9.md)

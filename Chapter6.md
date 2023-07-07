@@ -26,8 +26,9 @@ PySide6中可以使用语言工具【Qt *Linguist*】来转换不同的语言。
 如果要动态切换，则需要在菜单中手动操作，切换为不同的目标语言。
 
 <font size=2>
-说明：
-
-linguist.exe工具可在Python安装目录找到，参考路径：D:\Python\Python310\Lib\site-packages\PySide6\linguist.exe
-pyside6-lupdate.exe工具可在Python安装目录找到，参考路径：D:\Python\Python310\Scripts\.pyside6-lupdate.exe
+说明：</br>
+linguist.exe工具可在Python安装目录找到，参考路径：</br>
+D:\Python\Python310\Lib\site-packages\PySide6\linguist.exe</br></br>
+pyside6-lupdate.exe工具可在Python安装目录找到，参考路径：</br>
+D:\Python\Python310\Scripts\.pyside6-lupdate.exe</br>
 </font>

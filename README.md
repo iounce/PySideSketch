@@ -20,3 +20,5 @@
 ## 第七章 打包
 
 ## 第八章 案例解析之PySideFrameless
+
+## 第九章 案例解析之PySidePDF

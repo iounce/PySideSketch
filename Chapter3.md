@@ -34,8 +34,9 @@ PySide6中常见的布局控件有网格布局控件QGridLayout，垂直布局�
   ![1685528256374](image/Chapter3/1685528256374.png)
 
 <font size=2>
-说明：
-
-designer.exe工具可在Python安装目录找到，参考路径：D:\Python\Python310\Lib\site-packages\PySide6\designer.exe
-pyside6-uic.exe工具可在Python安装目录找到，参考路径：D:\Python\Python310\Scripts\pyside6-uic.exe
+说明：</br>
+designer.exe工具可在Python安装目录找到，参考路径：</br>
+D:\Python\Python310\Lib\site-packages\PySide6\designer.exe</br></br>
+pyside6-uic.exe工具可在Python安装目录找到，参考路径：</br>
+D:\Python\Python310\Scripts\pyside6-uic.exe</br>
 </font>

@@ -68,9 +68,11 @@ main_window.py
   使用base_window.py的示例程序。
 
 <font size=2>
-说明：
-
-designer.exe工具可在Python安装目录找到，参考路径：D:\Python\Python310\Lib\site-packages\PySide6\designer.exe
-linguist.exe工具可在Python安装目录找到，参考路径：D:\Python\Python310\Lib\site-packages\PySide6\linguist.exe
-pyside6-uic.exe工具可在Python安装目录找到，参考路径：D:\Python\Python310\Scripts\pyside6-uic.exe
+说明：</br>
+designer.exe工具可在Python安装目录找到，参考路径：</br>
+D:\Python\Python310\Lib\site-packages\PySide6\designer.exe</br></br>
+linguist.exe工具可在Python安装目录找到，参考路径：</br>
+D:\Python\Python310\Lib\site-packages\PySide6\linguist.exe</br></br>
+pyside6-uic.exe工具可在Python安装目录找到，参考路径：</br>
+D:\Python\Python310\Scripts\pyside6-uic.exe</br>
 </font>
